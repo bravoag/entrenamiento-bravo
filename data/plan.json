@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "nota": "Los IDs remiten a ejercicios.json. 'juntos' = ambos. Bloques: calentamiento (0-5), a (5-15), b (15-25, separado por persona), c (25-30). Racha = semanas (lun-dom) con 3+ sesiones.",
+  "minimoSemana": 3,
+  "obligatorios": [
+    1,
+    2,
+    4
+  ],
+  "adaptacion": {
+    "semanas": 2,
+    "series": 2,
+    "ligaMax": 1,
+    "sustituciones": {
+      "adrian": {
+        "a-bulgara": "a-zancada"
+      }
+    }
+  },
+  "progresion": {
+    "regla": "Al llegar al tope de repeticiones en todas las series, con buena técnica y dolor <= 2, subir liga o variante. Al subir, volver al piso del rango.",
+    "doloRegresar": 3
+  },
+  "rotacionBici": {
+    "regla": "Semana ISO impar: Natalia usa la bici primero (5-15). Semana ISO par: Adrián primero.",
+    "impar": "natalia",
+    "par": "adrian"
+  },
+  "dias": [
+    {
+      "dia": 1,
+      "nombre": "Pierna fuerte + empuje",
+      "calentamiento": {
+        "juntos": [
+          "cal-movilidad",
+          "cal-gato-camello"
+        ],
+        "adrian": [
+          "cal-muneca-excentrica",
+          "cal-estira-antebrazo"
+        ]
+      },
+      "a": {
+        "juntos": [
+          "a-sentadilla-liga",
+          "a-bulgara",
+          "a-puente-gluteo"
+        ]
+      },
+      "b": {
+        "natalia": [
+          "bn-pie-corto",
+          "bn-pie-dedos",
+          "bn-talones"
+        ],
+        "adrian": [
+          "ba-flexion-rodillas",
+          "ba-press-pecho-liga",
+          "ba-press-hombro-liga"
+        ]
+      },
+      "c": {
+        "juntos": [
+          "c-plancha",
+          "c-dead-bug",
+          "c-calma"
+        ]
+      },
+      "nombrePersona": {
+        "natalia": "Pierna fuerte",
+        "adrian": "Pierna fuerte + empuje"
+      }
+    },
+    {
+      "dia": 2,
+      "nombre": "Core, postura + tracción",
+      "calentamiento": {
+        "juntos": [
+          "cal-movilidad",
+          "cal-gato-camello"
+        ],
+        "adrian": [
+          "cal-muneca-excentrica",
+          "cal-estira-antebrazo"
+        ]
+      },
+      "a": {
+        "juntos": [
+          "a-puente-gluteo",
+          "a-almeja",
+          "a-gluteo-medio"
+        ]
+      },
+      "b": {
+        "natalia": [
+          "bn-pie-corto",
+          "bn-foot-core",
+          "bn-equilibrio"
+        ],
+        "adrian": [
+          "ba-remo-liga",
+          "ba-face-pull",
+          "ba-curl-martillo"
+        ]
+      },
+      "c": {
+        "juntos": [
+          "c-bird-dog",
+          "c-plancha-lateral",
+          "c-calma"
+        ]
+      },
+      "nombrePersona": {
+        "natalia": "Core y postura",
+        "adrian": "Core, postura + tracción"
+      }
+    },
+    {
+      "dia": 3,
+      "nombre": "Bici alternada",
+      "tipo": "bici",
+      "franjas": [
+        {
+          "min": "0-5",
+          "juntos": [
+            "cal-movilidad",
+            "cal-gato-camello"
+          ],
+          "adrian": [
+            "cal-muneca-excentrica",
+            "cal-estira-antebrazo"
+          ]
+        },
+        {
+          "min": "5-15",
+          "bici": "primero"
+        },
+        {
+          "min": "15-25",
+          "bici": "segundo"
+        },
+        {
+          "min": "25-30",
+          "juntos": [
+            "c-calma"
+          ]
+        }
+      ],
+      "libre": {
+        "nota": "Lo que hace cada persona mientras la otra usa la bici.",
+        "natalia": [
+          "bn-pie-corto",
+          "bn-equilibrio",
+          "a-gluteo-medio"
+        ],
+        "adrian": [
+          "ba-remo-liga",
+          "ba-face-pull",
+          "c-bird-dog"
+        ]
+      },
+      "nombrePersona": {
+        "natalia": "Bici alternada",
+        "adrian": "Bici alternada"
+      }
+    },
+    {
+      "dia": 4,
+      "nombre": "Bisagra, zancadas, glúteo medio + espalda y brazos",
+      "calentamiento": {
+        "juntos": [
+          "cal-movilidad",
+          "cal-gato-camello"
+        ],
+        "adrian": [
+          "cal-muneca-excentrica",
+          "cal-estira-antebrazo"
+        ]
+      },
+      "a": {
+        "juntos": [
+          "a-bisagra",
+          "a-zancada",
+          "a-gluteo-medio"
+        ]
+      },
+      "b": {
+        "natalia": [
+          "bn-pie-corto",
+          "bn-pie-dedos",
+          "bn-equilibrio"
+        ],
+        "adrian": [
+          "ba-remo-liga",
+          "ba-curl-martillo",
+          "ba-face-pull"
+        ]
+      },
+      "c": {
+        "juntos": [
+          "c-plancha",
+          "c-bird-dog",
+          "c-calma"
+        ]
+      },
+      "nombrePersona": {
+        "natalia": "Bisagra, zancadas y glúteo medio",
+        "adrian": "Bisagra, zancadas y glúteo medio + espalda y brazos"
+      }
+    },
+    {
+      "dia": 5,
+      "nombre": "Circuito de cuerpo completo ligero (sin bici)",
+      "calentamiento": {
+        "juntos": [
+          "cal-movilidad",
+          "cal-gato-camello"
+        ],
+        "adrian": [
+          "cal-muneca-excentrica",
+          "cal-estira-antebrazo"
+        ]
+      },
+      "a": {
+        "juntos": [
+          "a-sentadilla-liga",
+          "a-puente-gluteo",
+          "a-zancada"
+        ],
+        "circuito": {
+          "rondas": 2
+        }
+      },
+      "b": {
+        "natalia": [
+          "bn-pie-corto"
+        ],
+        "adrian": [
+          "ba-flexion-inclinada"
+        ],
+        "opcional": true
+      },
+      "c": {
+        "juntos": [
+          "c-dead-bug",
+          "c-plancha-lateral",
+          "c-calma"
+        ]
+      },
+      "nombrePersona": {
+        "natalia": "Circuito ligero de cuerpo completo",
+        "adrian": "Circuito ligero de cuerpo completo"
+      }
+    }
+  ]
+}
