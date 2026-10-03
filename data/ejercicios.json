@@ -8,7 +8,10 @@
       "bloque": "calentamiento",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "8D7ArYbk8x8", "canal": "SportCity México" },
+      "video": {
+        "id": "8D7ArYbk8x8",
+        "canal": "SportCity México"
+      },
       "pasos": [
         "De pie, haz círculos lentos con el cuello, hombros, muñecas, caderas, rodillas y tobillos.",
         "Dedica cerca de 1 minuto en total a cada zona, de arriba hacia abajo.",
@@ -19,10 +22,25 @@
         "Ir tan rápido que no se siente la articulación moverse."
       ],
       "prescripcion": {
-        "natalia": { "series": 1, "min": 1, "max": 1, "unidad": "min", "liga": null },
-        "adrian": { "series": 1, "min": 1, "max": 1, "unidad": "min", "liga": null }
+        "natalia": {
+          "series": 1,
+          "min": 1,
+          "max": 1,
+          "unidad": "min",
+          "liga": null
+        },
+        "adrian": {
+          "series": 1,
+          "min": 1,
+          "max": 1,
+          "unidad": "min",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "cal-gato-camello",
@@ -30,7 +48,10 @@
       "bloque": "calentamiento",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "8DN9X_KDrrY", "canal": "Móveo Fisioterapia y Pilates" },
+      "video": {
+        "id": "8DN9X_KDrrY",
+        "canal": "Móveo Fisioterapia y Pilates"
+      },
       "pasos": [
         "En cuatro apoyos: manos bajo los hombros, rodillas bajo las caderas.",
         "Al soltar el aire, redondea la espalda y mete el mentón (gato).",
@@ -42,10 +63,25 @@
         "Forzar la curva hacia abajo en la zona lumbar."
       ],
       "prescripcion": {
-        "natalia": { "series": 1, "min": 8, "max": 10, "unidad": "reps", "liga": null },
-        "adrian": { "series": 1, "min": 8, "max": 10, "unidad": "reps", "liga": null }
+        "natalia": {
+          "series": 1,
+          "min": 8,
+          "max": 10,
+          "unidad": "reps",
+          "liga": null
+        },
+        "adrian": {
+          "series": 1,
+          "min": 8,
+          "max": 10,
+          "unidad": "reps",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Sin forzar la curva; no bloquear los codos.", "adrian": "" }
+      "notas": {
+        "natalia": "Sin forzar la curva; no bloquear los codos.",
+        "adrian": ""
+      }
     },
     {
       "id": "cal-muneca-excentrica",
@@ -56,7 +92,12 @@
       "video": {
         "id": "tpHlYxhdsgk",
         "canal": "Hombro y Codo Chile, Dr. Claudio Moraga",
-        "alt": [{ "id": "qZ91noRkkWM", "canal": "Fisiolution" }]
+        "alt": [
+          {
+            "id": "qZ91noRkkWM",
+            "canal": "Fisiolution"
+          }
+        ]
       },
       "pasos": [
         "Sentado, apoya el antebrazo en el muslo o una mesa con la palma hacia arriba y la mano fuera del borde.",
@@ -69,9 +110,19 @@
         "Usar demasiada carga y sentir dolor en el codo."
       ],
       "prescripcion": {
-        "adrian": { "series": 2, "min": 15, "max": 15, "unidad": "reps", "porLado": true, "liga": 1 }
+        "adrian": {
+          "series": 2,
+          "min": 15,
+          "max": 15,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "Dolor máximo 3/10 en el codo. Si pasa, bajar la carga o parar. Carga: pesa de 4 lb." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Dolor máximo 3/10 en el codo. Si pasa, bajar la carga o parar. Carga: pesa de 4 lb."
+      }
     },
     {
       "id": "cal-estira-antebrazo",
@@ -79,7 +130,10 @@
       "bloque": "calentamiento",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "96XSWcSXok4", "canal": "Clínica CEMTRO" },
+      "video": {
+        "id": "96XSWcSXok4",
+        "canal": "Clínica CEMTRO"
+      },
       "pasos": [
         "Estira el brazo al frente con la palma hacia arriba.",
         "Con la otra mano, lleva suavemente los dedos hacia el suelo.",
@@ -90,9 +144,19 @@
         "Doblar el codo para aliviar la tensión."
       ],
       "prescripcion": {
-        "adrian": { "series": 2, "min": 30, "max": 30, "unidad": "seg", "porLado": true, "liga": null }
+        "adrian": {
+          "series": 2,
+          "min": 30,
+          "max": 30,
+          "unidad": "seg",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "Codo estirado sin forzar." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Codo estirado sin forzar."
+      }
     },
     {
       "id": "a-sentadilla-liga",
@@ -103,7 +167,12 @@
       "video": {
         "id": "kVNj8kP0xYk",
         "canal": "Javier Giménez",
-        "alt": [{ "id": "ZBLxP3i6RKE", "canal": "FisioActivo" }]
+        "alt": [
+          {
+            "id": "ZBLxP3i6RKE",
+            "canal": "FisioActivo"
+          }
+        ]
       },
       "pasos": [
         "Liga corta justo encima de las rodillas. Pies al ancho de los hombros, puntas ligeramente abiertas.",
@@ -117,8 +186,20 @@
         "Inclinar el torso demasiado hacia adelante."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 10, "max": 15, "unidad": "reps", "liga": 1 },
-        "adrian": { "series": 3, "min": 10, "max": 15, "unidad": "reps", "liga": 1 }
+        "natalia": {
+          "series": 3,
+          "min": 10,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        },
+        "adrian": {
+          "series": 3,
+          "min": 10,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
       "notas": {
         "natalia": "Rodilla alineada con el 2.º dedo del pie. Bajar solo hasta donde controle. Rodillas suaves al subir.",
@@ -135,8 +216,16 @@
         "id": "6d6HlPWgAUs",
         "canal": "Fit Generation",
         "momentos": [
-          { "desde": "3:40", "hasta": "9:50", "texto": "Técnica con enfoque en cuádriceps (empieza aquí)" },
-          { "desde": "9:51", "hasta": "13:42", "texto": "Variante con enfoque en glúteo" }
+          {
+            "desde": "3:40",
+            "hasta": "9:50",
+            "texto": "Técnica con enfoque en cuádriceps (empieza aquí)"
+          },
+          {
+            "desde": "9:51",
+            "hasta": "13:42",
+            "texto": "Variante con enfoque en glúteo"
+          }
         ]
       },
       "pasos": [
@@ -151,8 +240,22 @@
         "Inclinar mucho el torso o apoyarse en el pie de atrás."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 8, "max": 10, "unidad": "reps", "porLado": true, "liga": null },
-        "adrian": { "series": 3, "min": 8, "max": 12, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 8,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        },
+        "adrian": {
+          "series": 3,
+          "min": 8,
+          "max": 12,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
       "notas": {
         "natalia": "Rango corto y controlado. Rodilla sin colapsar. Cerca de una pared para agarrarse si hace falta.",
@@ -165,7 +268,10 @@
       "bloque": "a",
       "tipo": "fuerza",
       "ligaTipo": "corta",
-      "video": { "id": "7OwCakAdfS8", "canal": "Proet Ejercicio Terapéutico" },
+      "video": {
+        "id": "7OwCakAdfS8",
+        "canal": "Proet Ejercicio Terapéutico"
+      },
       "pasos": [
         "Boca arriba, rodillas dobladas, pies planos al ancho de la cadera. Liga corta sobre las rodillas.",
         "Empuja las rodillas un poco hacia afuera contra la liga.",
@@ -178,10 +284,25 @@
         "Dejar que las rodillas se junten."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 12, "max": 15, "unidad": "reps", "liga": 1 },
-        "adrian": { "series": 3, "min": 12, "max": 15, "unidad": "reps", "liga": 1 }
+        "natalia": {
+          "series": 3,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        },
+        "adrian": {
+          "series": 3,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "Puede pasar a liga 2 antes que a otras." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Puede pasar a liga 2 antes que a otras."
+      }
     },
     {
       "id": "a-bisagra",
@@ -192,7 +313,12 @@
       "video": {
         "id": "TtNNetcesvg",
         "canal": "Fit Trainers Club",
-        "alt": [{ "id": "8_fGC8_WoDc", "canal": "Fit con Fernando" }]
+        "alt": [
+          {
+            "id": "8_fGC8_WoDc",
+            "canal": "Fit con Fernando"
+          }
+        ]
       },
       "pasos": [
         "Pisa el centro de la liga larga con ambos pies y pasa el otro extremo por la parte alta de la espalda (no el cuello).",
@@ -206,10 +332,25 @@
         "Poner la liga en la nuca."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 10, "max": 12, "unidad": "reps", "liga": 1 },
-        "adrian": { "series": 3, "min": 10, "max": 12, "unidad": "reps", "liga": 1 }
+        "natalia": {
+          "series": 3,
+          "min": 10,
+          "max": 12,
+          "unidad": "reps",
+          "liga": 1
+        },
+        "adrian": {
+          "series": 3,
+          "min": 10,
+          "max": 12,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "Rodillas suaves; no bloquearlas al subir.", "adrian": "Espalda neutra, sin redondear." }
+      "notas": {
+        "natalia": "Rodillas suaves; no bloquearlas al subir.",
+        "adrian": "Espalda neutra, sin redondear."
+      }
     },
     {
       "id": "a-zancada",
@@ -217,7 +358,16 @@
       "bloque": "a",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "kgSBts9RSH4", "canal": "María Plaza Carrasco" },
+      "video": {
+        "id": "SAIcQSJwZR4",
+        "canal": "Tandem Fitness",
+        "alt": [
+          {
+            "id": "kgSBts9RSH4",
+            "canal": "María Plaza Carrasco"
+          }
+        ]
+      },
       "pasos": [
         "Da un paso largo adelante y mantén los pies a la anchura de la cadera.",
         "Baja recto doblando ambas rodillas, tronco erguido.",
@@ -230,10 +380,27 @@
         "Inclinar el torso hacia adelante."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 8, "max": 10, "unidad": "reps", "porLado": true, "liga": null },
-        "adrian": { "series": 3, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 8,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        },
+        "adrian": {
+          "series": 3,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Paso medio, rodilla alineada con el 2.º dedo.", "adrian": "" }
+      "notas": {
+        "natalia": "Paso medio, rodilla alineada con el 2.º dedo.",
+        "adrian": ""
+      }
     },
     {
       "id": "a-gluteo-medio",
@@ -244,7 +411,12 @@
       "video": {
         "id": "RQNKFemP6vo",
         "canal": "Willee Araujo Coach",
-        "alt": [{ "id": "8pA8WWbKFto", "canal": "Móveo Fisioterapia y Pilates" }]
+        "alt": [
+          {
+            "id": "8pA8WWbKFto",
+            "canal": "Móveo Fisioterapia y Pilates"
+          }
+        ]
       },
       "pasos": [
         "Liga corta sobre las rodillas (o sobre los tobillos para más dificultad). Rodillas flexionadas, cadera atrás.",
@@ -258,10 +430,27 @@
         "Soltar la liga al juntar los pies."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": 1 },
-        "adrian": { "series": 3, "min": 12, "max": 12, "unidad": "reps", "porLado": true, "liga": 1 }
+        "natalia": {
+          "series": 3,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": 1
+        },
+        "adrian": {
+          "series": 3,
+          "min": 12,
+          "max": 12,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "Control, no velocidad.", "adrian": "" }
+      "notas": {
+        "natalia": "Control, no velocidad.",
+        "adrian": ""
+      }
     },
     {
       "id": "a-almeja",
@@ -269,7 +458,10 @@
       "bloque": "a",
       "tipo": "fuerza",
       "ligaTipo": "corta",
-      "video": { "id": "u2p6nH7WEhE", "canal": "Proet Ejercicio Terapéutico" },
+      "video": {
+        "id": "u2p6nH7WEhE",
+        "canal": "Proet Ejercicio Terapéutico"
+      },
       "pasos": [
         "Acostado de lado, rodillas dobladas a 45°, liga corta sobre las rodillas, pies juntos.",
         "Sin mover la pelvis, abre la rodilla de arriba como una almeja.",
@@ -281,10 +473,28 @@
         "Separar los pies al abrir."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 12, "max": 15, "unidad": "reps", "porLado": true, "liga": 1 },
-        "adrian": { "series": 3, "min": 12, "max": 15, "unidad": "reps", "porLado": true, "liga": 1, "opcional": true }
+        "natalia": {
+          "series": 3,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": 1
+        },
+        "adrian": {
+          "series": 3,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": 1,
+          "opcional": true
+        }
       },
-      "notas": { "natalia": "", "adrian": "Opcional." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Opcional."
+      }
     },
     {
       "id": "bn-pie-corto",
@@ -295,7 +505,12 @@
       "video": {
         "id": "XtgR6OVlw3A",
         "canal": "Vitruvio Biomecánica",
-        "alt": [{ "id": "Mdx2uAK9-SU", "canal": "The Fisio Program" }]
+        "alt": [
+          {
+            "id": "Mdx2uAK9-SU",
+            "canal": "The Fisio Program"
+          }
+        ]
       },
       "pasos": [
         "Descalza, pie plano en el suelo, sentada primero.",
@@ -309,9 +524,19 @@
         "Hacer fuerza con el muslo en vez del pie."
       ],
       "prescripcion": {
-        "natalia": { "series": 1, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 1,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Cada sesión del bloque B. Mantener 5 segundos por repetición.", "adrian": "" }
+      "notas": {
+        "natalia": "Cada sesión del bloque B. Mantener 5 segundos por repetición.",
+        "adrian": ""
+      }
     },
     {
       "id": "bn-pie-dedos",
@@ -323,11 +548,28 @@
         "id": "cVsTXM6OVoY",
         "canal": "FisioOnline",
         "momentos": [
-          { "desde": "5:48", "hasta": "9:25", "texto": "Automasaje y movilización (empieza aquí; salta la explicación inicial)" },
-          { "desde": "9:26", "hasta": "10:32", "texto": "Tracciones del primer dedo" },
-          { "desde": "10:33", "hasta": "12:17", "texto": "Ejercicio para el arco anterior del pie" }
+          {
+            "desde": "5:48",
+            "hasta": "9:25",
+            "texto": "Automasaje y movilización (empieza aquí; salta la explicación inicial)"
+          },
+          {
+            "desde": "9:26",
+            "hasta": "10:32",
+            "texto": "Tracciones del primer dedo"
+          },
+          {
+            "desde": "10:33",
+            "hasta": "12:17",
+            "texto": "Ejercicio para el arco anterior del pie"
+          }
         ],
-        "alt": [{ "id": "TlGJSFRmvOg", "canal": "FisioDual. Fisioterapia y Osteopatía" }]
+        "alt": [
+          {
+            "id": "TlGJSFRmvOg",
+            "canal": "FisioDual. Fisioterapia y Osteopatía"
+          }
+        ]
       },
       "pasos": [
         "Sentada, separa los dedos del pie abriéndolos como abanico, 5 segundos.",
@@ -340,9 +582,19 @@
         "Hacerlo con zapatos apretados puestos."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Si hay molestia, reducir el rango.", "adrian": "" }
+      "notas": {
+        "natalia": "Si hay molestia, reducir el rango.",
+        "adrian": ""
+      }
     },
     {
       "id": "bn-foot-core",
@@ -350,7 +602,10 @@
       "bloque": "bn",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "-Uz7pNoTTGI", "canal": "Centro Clínico del Pie Biomecánica" },
+      "video": {
+        "id": "-Uz7pNoTTGI",
+        "canal": "Centro Clínico del Pie Biomecánica"
+      },
       "pasos": [
         "Descalza, sentada o de pie, sigue la secuencia del video para activar los músculos del arco.",
         "Mantén cada contracción unos segundos y suelta.",
@@ -361,9 +616,19 @@
         "Usar la pantorrilla en lugar del pie."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "bn-talones",
@@ -371,7 +636,10 @@
       "bloque": "bn",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "0guUs90hUiY", "canal": "Proet Ejercicio Terapéutico" },
+      "video": {
+        "id": "0guUs90hUiY",
+        "canal": "Proet Ejercicio Terapéutico"
+      },
       "pasos": [
         "De pie sobre un escalón o el borde de un libro grueso, apoyándote en la pared.",
         "Sube los talones en 2 segundos empujando sobre el dedo gordo.",
@@ -383,9 +651,18 @@
         "Bloquear las rodillas."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 10, "max": 15, "unidad": "reps", "liga": null }
+        "natalia": {
+          "series": 3,
+          "min": 10,
+          "max": 15,
+          "unidad": "reps",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Empezar sin bajar del nivel del suelo.", "adrian": "" }
+      "notas": {
+        "natalia": "Empezar sin bajar del nivel del suelo.",
+        "adrian": ""
+      }
     },
     {
       "id": "bn-equilibrio",
@@ -393,7 +670,16 @@
       "bloque": "bn",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "eKTq4iyyLtg", "canal": "FisioOnline" },
+      "video": {
+        "id": "IyFOvFc7kpM",
+        "canal": "FREMAP",
+        "alt": [
+          {
+            "id": "LwJM59_HG3I",
+            "canal": "Marcos Sacristán | Fisioterapia"
+          }
+        ]
+      },
       "pasos": [
         "De pie descalza, junto a una pared por seguridad.",
         "Levanta un pie y mantén el equilibrio sobre la otra pierna, rodilla suave.",
@@ -406,9 +692,19 @@
         "Hundir el arco; mantén el pie corto."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 30, "max": 30, "unidad": "seg", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 3,
+          "min": 30,
+          "max": 30,
+          "unidad": "seg",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Rodilla suave, no bloqueada.", "adrian": "" }
+      "notas": {
+        "natalia": "Rodilla suave, no bloqueada.",
+        "adrian": ""
+      }
     },
     {
       "id": "ba-flexion-rodillas",
@@ -416,7 +712,10 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "QjN9gIpaOAQ", "canal": "Vitar Club" },
+      "video": {
+        "id": "QjN9gIpaOAQ",
+        "canal": "Vitar Club"
+      },
       "pasos": [
         "Manos algo más anchas que los hombros, rodillas en el mat, cuerpo en línea de rodillas a cabeza.",
         "Aprieta abdomen y glúteos.",
@@ -429,9 +728,18 @@
         "No bajar el pecho lo suficiente."
       ],
       "prescripcion": {
-        "adrian": { "series": 3, "min": 8, "max": 12, "unidad": "reps", "liga": null }
+        "adrian": {
+          "series": 3,
+          "min": 8,
+          "max": 12,
+          "unidad": "reps",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "Muñecas: si molestan, usar puños o mancuernas como apoyo." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Muñecas: si molestan, usar puños o mancuernas como apoyo."
+      }
     },
     {
       "id": "ba-flexion-inclinada",
@@ -439,7 +747,10 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "kPs3B6BIsnQ", "canal": "Carlos Rossi" },
+      "video": {
+        "id": "kPs3B6BIsnQ",
+        "canal": "Carlos Rossi"
+      },
       "pasos": [
         "Manos en una superficie estable (mesa, sofá), cuerpo en línea recta.",
         "Baja el pecho hacia la superficie con codos a 45°.",
@@ -450,9 +761,18 @@
         "Cadera caída."
       ],
       "prescripcion": {
-        "adrian": { "series": 3, "min": 8, "max": 12, "unidad": "reps", "liga": null }
+        "adrian": {
+          "series": 3,
+          "min": 8,
+          "max": 12,
+          "unidad": "reps",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "Se pasa a esta variante al lograr 3x12 de rodillas." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Se pasa a esta variante al lograr 3x12 de rodillas."
+      }
     },
     {
       "id": "ba-press-pecho-liga",
@@ -460,7 +780,10 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": "larga",
-      "video": { "id": "YVmEWu_Vl8c", "canal": "Adrian Estrada" },
+      "video": {
+        "id": "YVmEWu_Vl8c",
+        "canal": "Adrian Estrada"
+      },
       "pasos": [
         "Pasa la liga larga por la espalda a la altura de los omóplatos y sujeta cada extremo.",
         "Codos a 45° y manos a la altura del pecho.",
@@ -473,9 +796,18 @@
         "Bloquear los codos."
       ],
       "prescripcion": {
-        "adrian": { "series": 3, "min": 10, "max": 15, "unidad": "reps", "liga": 1 }
+        "adrian": {
+          "series": 3,
+          "min": 10,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "ba-press-hombro-liga",
@@ -483,7 +815,16 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": "larga",
-      "video": { "id": "I0bj7b1niNs", "canal": "ReevolveFit" },
+      "video": {
+        "id": "yM0z2CkADs4",
+        "canal": "Javier Giménez - Healthy Fit",
+        "alt": [
+          {
+            "id": "I0bj7b1niNs",
+            "canal": "ReevolveFit"
+          }
+        ]
+      },
       "pasos": [
         "Pisa la liga con ambos pies y sujeta los extremos a la altura de los hombros.",
         "Abdomen firme, costillas abajo.",
@@ -495,9 +836,18 @@
         "Subir los hombros hacia las orejas."
       ],
       "prescripcion": {
-        "adrian": { "series": 3, "min": 10, "max": 12, "unidad": "reps", "liga": 1 }
+        "adrian": {
+          "series": 3,
+          "min": 10,
+          "max": 12,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "ba-remo-liga",
@@ -505,7 +855,10 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": "larga",
-      "video": { "id": "KmpDowjBY2A", "canal": "Proet Ejercicio Terapéutico" },
+      "video": {
+        "id": "KmpDowjBY2A",
+        "canal": "Proet Ejercicio Terapéutico"
+      },
       "pasos": [
         "Sentado en el suelo con las piernas estiradas y la liga rodeando los pies.",
         "Sujeta los extremos con agarre neutro (palmas enfrentadas).",
@@ -518,9 +871,18 @@
         "Encoger los hombros."
       ],
       "prescripcion": {
-        "adrian": { "series": 3, "min": 12, "max": 15, "unidad": "reps", "liga": 1 }
+        "adrian": {
+          "series": 3,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "Agarre neutro, por el codo." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Agarre neutro, por el codo."
+      }
     },
     {
       "id": "ba-face-pull",
@@ -528,7 +890,10 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": "larga",
-      "video": { "id": "6KvMoO5Smj0", "canal": "Vitar Club" },
+      "video": {
+        "id": "6KvMoO5Smj0",
+        "canal": "Vitar Club"
+      },
       "pasos": [
         "Ancla la liga a la altura de la cara (puerta cerrada o poste).",
         "Sujeta los extremos y da un paso atrás hasta tensar la liga.",
@@ -540,9 +905,18 @@
         "Codos bajos en vez de a la altura de los hombros."
       ],
       "prescripcion": {
-        "adrian": { "series": 3, "min": 12, "max": 15, "unidad": "reps", "liga": 1 }
+        "adrian": {
+          "series": 3,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "ba-curl-martillo",
@@ -550,7 +924,10 @@
       "bloque": "ba",
       "tipo": "fuerza",
       "ligaTipo": "larga",
-      "video": { "id": "zw2M5Pn1lro", "canal": "Coach Juanky" },
+      "video": {
+        "id": "zw2M5Pn1lro",
+        "canal": "Coach Juanky"
+      },
       "pasos": [
         "Pisa la liga con un pie adelantado.",
         "Sujeta con agarre neutro (pulgar arriba), codo pegado al cuerpo.",
@@ -562,9 +939,19 @@
         "Despegar el codo del cuerpo."
       ],
       "prescripcion": {
-        "adrian": { "series": 2, "min": 12, "max": 15, "unidad": "reps", "porLado": true, "liga": 1 }
+        "adrian": {
+          "series": 2,
+          "min": 12,
+          "max": 15,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": 1
+        }
       },
-      "notas": { "natalia": "", "adrian": "Agarre neutro por el codo. Si el dolor pasa de 3/10, parar. Alternativa: pesa de 4 lb en vez de liga." }
+      "notas": {
+        "natalia": "",
+        "adrian": "Agarre neutro por el codo. Si el dolor pasa de 3/10, parar. Alternativa: pesa de 4 lb en vez de liga."
+      }
     },
     {
       "id": "c-plancha",
@@ -572,7 +959,16 @@
       "bloque": "c",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "rlEWY2lRCTU", "canal": "Therapeutic International" },
+      "video": {
+        "id": "ANaVGepQ5fE",
+        "canal": "Health and sport community",
+        "alt": [
+          {
+            "id": "rlEWY2lRCTU",
+            "canal": "Therapeutic International"
+          }
+        ]
+      },
       "pasos": [
         "Apoya antebrazos (codos bajo los hombros) y rodillas o puntas de los pies.",
         "Cuerpo en línea recta de cabeza a rodillas o talones.",
@@ -585,8 +981,20 @@
         "Contener la respiración."
       ],
       "prescripcion": {
-        "natalia": { "series": 3, "min": 20, "max": 30, "unidad": "seg", "liga": null },
-        "adrian": { "series": 3, "min": 20, "max": 45, "unidad": "seg", "liga": null }
+        "natalia": {
+          "series": 3,
+          "min": 20,
+          "max": 30,
+          "unidad": "seg",
+          "liga": null
+        },
+        "adrian": {
+          "series": 3,
+          "min": 20,
+          "max": 45,
+          "unidad": "seg",
+          "liga": null
+        }
       },
       "notas": {
         "natalia": "Meta: 60 segundos seguidos (insignia). Codos sin hiperextender.",
@@ -599,7 +1007,16 @@
       "bloque": "c",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "hUIrLbMnglY", "canal": "FisioVanguardia" },
+      "video": {
+        "id": "L0UMTpI1xWI",
+        "canal": "Therapeutic International",
+        "alt": [
+          {
+            "id": "hUIrLbMnglY",
+            "canal": "FisioVanguardia"
+          }
+        ]
+      },
       "pasos": [
         "En cuatro apoyos, espalda neutra.",
         "Estira un brazo hacia adelante y la pierna contraria hacia atrás, sin girar la cadera.",
@@ -611,10 +1028,27 @@
         "Ir muy rápido."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 8, "max": 8, "unidad": "reps", "porLado": true, "liga": null },
-        "adrian": { "series": 2, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 8,
+          "max": 8,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        },
+        "adrian": {
+          "series": 2,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Codo de apoyo suave, sin bloquear.", "adrian": "" }
+      "notas": {
+        "natalia": "Codo de apoyo suave, sin bloquear.",
+        "adrian": ""
+      }
     },
     {
       "id": "c-dead-bug",
@@ -622,7 +1056,10 @@
       "bloque": "c",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "HC0_4VYEKYs", "canal": "ICONICA Servicios Médicos" },
+      "video": {
+        "id": "HC0_4VYEKYs",
+        "canal": "ICONICA Servicios Médicos"
+      },
       "pasos": [
         "Boca arriba, brazos al techo, rodillas dobladas a 90° sobre la cadera.",
         "Pega la zona lumbar al suelo.",
@@ -634,10 +1071,27 @@
         "Bajar brazo y pierna demasiado rápido."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 8, "max": 8, "unidad": "reps", "porLado": true, "liga": null },
-        "adrian": { "series": 2, "min": 10, "max": 10, "unidad": "reps", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 8,
+          "max": 8,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        },
+        "adrian": {
+          "series": 2,
+          "min": 10,
+          "max": 10,
+          "unidad": "reps",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "c-plancha-lateral",
@@ -645,7 +1099,10 @@
       "bloque": "c",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "5Mlhzqy8nLU", "canal": "Escuela de Pacientes" },
+      "video": {
+        "id": "5Mlhzqy8nLU",
+        "canal": "Escuela de Pacientes"
+      },
       "pasos": [
         "De lado, codo bajo el hombro y rodillas dobladas apoyadas.",
         "Levanta la cadera para formar una línea recta de rodillas a cabeza.",
@@ -656,10 +1113,27 @@
         "Hombro encogido hacia la oreja."
       ],
       "prescripcion": {
-        "natalia": { "series": 2, "min": 15, "max": 20, "unidad": "seg", "porLado": true, "liga": null },
-        "adrian": { "series": 2, "min": 20, "max": 30, "unidad": "seg", "porLado": true, "liga": null }
+        "natalia": {
+          "series": 2,
+          "min": 15,
+          "max": 20,
+          "unidad": "seg",
+          "porLado": true,
+          "liga": null
+        },
+        "adrian": {
+          "series": 2,
+          "min": 20,
+          "max": 30,
+          "unidad": "seg",
+          "porLado": true,
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     },
     {
       "id": "c-calma",
@@ -667,7 +1141,10 @@
       "bloque": "c",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "pF46ZFaR7Ag", "canal": "gymvirtual" },
+      "video": {
+        "id": "pF46ZFaR7Ag",
+        "canal": "gymvirtual"
+      },
       "pasos": [
         "Sigue la secuencia del video estirando piernas, glúteos y espalda.",
         "Respira lento y mantén cada estiramiento sin rebotes."
@@ -677,10 +1154,25 @@
         "Rebotar en el estiramiento."
       ],
       "prescripcion": {
-        "natalia": { "series": 1, "min": 2, "max": 2, "unidad": "min", "liga": null },
-        "adrian": { "series": 1, "min": 2, "max": 2, "unidad": "min", "liga": null }
+        "natalia": {
+          "series": 1,
+          "min": 2,
+          "max": 2,
+          "unidad": "min",
+          "liga": null
+        },
+        "adrian": {
+          "series": 1,
+          "min": 2,
+          "max": 2,
+          "unidad": "min",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "Estirar hasta sentir tensión suave, no más allá.", "adrian": "" }
+      "notas": {
+        "natalia": "Estirar hasta sentir tensión suave, no más allá.",
+        "adrian": ""
+      }
     },
     {
       "id": "bici",
@@ -688,7 +1180,10 @@
       "bloque": "bici",
       "tipo": "bici",
       "ligaTipo": null,
-      "video": { "id": "zaUWNvgelAU", "canal": "SportCity México" },
+      "video": {
+        "id": "zaUWNvgelAU",
+        "canal": "SportCity México"
+      },
       "pasos": [
         "Ajusta el sillín a la altura de la cadera y el manubrio a una posición cómoda; cambia el ajuste cada vez que cambie la persona.",
         "Pedalea con resistencia baja o media y cadencia cómoda.",
@@ -701,10 +1196,25 @@
         "Agarrar el manubrio con fuerza."
       ],
       "prescripcion": {
-        "natalia": { "series": 1, "min": 10, "max": 10, "unidad": "min", "liga": null },
-        "adrian": { "series": 1, "min": 10, "max": 10, "unidad": "min", "liga": null }
+        "natalia": {
+          "series": 1,
+          "min": 10,
+          "max": 10,
+          "unidad": "min",
+          "liga": null
+        },
+        "adrian": {
+          "series": 1,
+          "min": 10,
+          "max": 10,
+          "unidad": "min",
+          "liga": null
+        }
       },
-      "notas": { "natalia": "", "adrian": "" }
+      "notas": {
+        "natalia": "",
+        "adrian": ""
+      }
     }
   ]
 }
