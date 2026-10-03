@@ -1,5 +1,5 @@
 // Caché simple: guarda la app para que abra sin internet. Subir CACHE al cambiar archivos.
-const CACHE = 'bravo-v8';
+const CACHE = 'bravo-v9';
 const ARCHIVOS = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'data/ejercicios.json', 'data/plan.json',

@@ -1,5 +1,5 @@
 'use strict';
-const VERSION = 'v8';
+const VERSION = 'v9';
 /* Entrenamiento Bravo — app sin dependencias. Datos en app/data/*.json, progreso en localStorage.
    Para la sincronización (Paso 5) solo hay que cambiar el objeto Store. */
 
@@ -371,6 +371,10 @@ function vistaFicha(id) {
     }).join('');
   }
 
+  const leyendaLiga = ej.ligaTipo && ej.tipo !== 'bici' && p.unidad !== 'min'
+    ? `<p class="leyenda-liga"><b>Liga ${esc(ej.ligaTipo)}</b>: toca el nivel que usaste en cada serie.<br><span><b>1</b> baja · <b>2</b> media · <b>3</b> alta</span>${enAdaptacion(semana) ? ' <em>(semanas 1-2: solo la 1)</em>' : ''}</p>`
+    : '';
+
   // Sugerencia de progresión: tope de repeticiones en todas las series con dolor <= 2
   let sugerencia = '';
   if (ult && !enAdaptacion(semana) && ej.tipo === 'fuerza' && p.unidad !== 'min' && ult.series
@@ -390,7 +394,7 @@ function vistaFicha(id) {
     <div class="tarjeta"><h3>Cómo hacerlo</h3><ol>${ej.pasos.map(x => `<li>${esc(x)}</li>`).join('')}</ol></div>
     <div class="tarjeta"><h3>Errores comunes</h3><ul>${ej.errores.map(x => `<li>${esc(x)}</li>`).join('')}</ul></div>
     <form id="registro" data-id="${id}">
-      <div class="tarjeta"><h3>Tu registro</h3>${registro}
+      <div class="tarjeta"><h3>Tu registro</h3>${leyendaLiga}${registro}
         <div class="dolor"><div class="lectura"><span class="eyebrow">Dolor (0 = nada, 10 = máximo)</span><b id="dolor-v">${prev && prev.dolor != null ? prev.dolor : 0}</b></div>
         <input type="range" id="dolor" min="0" max="10" step="1" value="${prev && prev.dolor != null ? prev.dolor : 0}" aria-label="Dolor de 0 a 10"></div></div>
       <button class="btn" type="submit">${prev ? 'Actualizar registro' : 'Guardar registro'}</button>

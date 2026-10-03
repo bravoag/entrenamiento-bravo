@@ -140,6 +140,9 @@ h3 { font-size: 20px; }
 .num input { width: 62px; height: 50px; text-align: center; background: none; border: 0; font: 800 24px var(--display); -moz-appearance: textfield; }
 .num input::-webkit-outer-spin-button, .num input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
 .unidad { color: var(--tenue); font-size: 14px; }
+.leyenda-liga { margin: -2px 0 14px; padding: 10px 12px; border-radius: 12px; background: var(--acento-suave); border: 1px solid color-mix(in srgb, var(--acento) 35%, transparent); font-size: 14px; line-height: 1.4; }
+.leyenda-liga b { color: var(--acento); }
+.leyenda-liga span, .leyenda-liga em { color: var(--tenue); font-style: normal; }
 .ligas { display: flex; gap: 6px; }
 .liga { min-width: 46px; height: 50px; border-radius: 12px; border: 1px solid var(--linea); background: var(--panel2); font: 800 20px var(--display); color: var(--tenue); }
 .liga.sel { border-color: var(--acento); color: var(--acento); background: var(--acento-suave); }
