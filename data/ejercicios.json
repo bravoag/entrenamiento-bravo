@@ -10,7 +10,8 @@
       "ligaTipo": null,
       "video": {
         "id": "8D7ArYbk8x8",
-        "canal": "SportCity México"
+        "canal": "SportCity México",
+        "dur": 136
       },
       "pasos": [
         "De pie, haz círculos lentos con el cuello, hombros, muñecas, caderas, rodillas y tobillos.",
@@ -50,7 +51,8 @@
       "ligaTipo": null,
       "video": {
         "id": "8DN9X_KDrrY",
-        "canal": "Móveo Fisioterapia y Pilates"
+        "canal": "Móveo Fisioterapia y Pilates",
+        "dur": 105
       },
       "pasos": [
         "En cuatro apoyos: manos bajo los hombros, rodillas bajo las caderas.",
@@ -97,7 +99,8 @@
             "id": "qZ91noRkkWM",
             "canal": "Fisiolution"
           }
-        ]
+        ],
+        "dur": 55
       },
       "pasos": [
         "Sentado, apoya el antebrazo en el muslo o una mesa con la palma hacia arriba y la mano fuera del borde.",
@@ -132,7 +135,8 @@
       "ligaTipo": null,
       "video": {
         "id": "96XSWcSXok4",
-        "canal": "Clínica CEMTRO"
+        "canal": "Clínica CEMTRO",
+        "dur": 64
       },
       "pasos": [
         "Estira el brazo al frente con la palma hacia arriba.",
@@ -172,7 +176,8 @@
             "id": "ZBLxP3i6RKE",
             "canal": "FisioActivo"
           }
-        ]
+        ],
+        "dur": 386
       },
       "pasos": [
         "Liga corta justo encima de las rodillas. Pies al ancho de los hombros, puntas ligeramente abiertas.",
@@ -226,7 +231,8 @@
             "hasta": "13:42",
             "texto": "Variante con enfoque en glúteo"
           }
-        ]
+        ],
+        "dur": 1000
       },
       "pasos": [
         "De espaldas a una silla o sofá firme, apoya el empeine de un pie atrás.",
@@ -270,7 +276,8 @@
       "ligaTipo": "corta",
       "video": {
         "id": "7OwCakAdfS8",
-        "canal": "Proet Ejercicio Terapéutico"
+        "canal": "Proet Ejercicio Terapéutico",
+        "dur": 14
       },
       "pasos": [
         "Boca arriba, rodillas dobladas, pies planos al ancho de la cadera. Liga corta sobre las rodillas.",
@@ -318,7 +325,8 @@
             "id": "8_fGC8_WoDc",
             "canal": "Fit con Fernando"
           }
-        ]
+        ],
+        "dur": 21
       },
       "pasos": [
         "Pisa el centro de la liga larga con ambos pies y pasa el otro extremo por la parte alta de la espalda (no el cuello).",
@@ -366,7 +374,8 @@
             "id": "kgSBts9RSH4",
             "canal": "María Plaza Carrasco"
           }
-        ]
+        ],
+        "dur": 60
       },
       "pasos": [
         "Da un paso largo adelante y mantén los pies a la anchura de la cadera.",
@@ -416,7 +425,8 @@
             "id": "8pA8WWbKFto",
             "canal": "Móveo Fisioterapia y Pilates"
           }
-        ]
+        ],
+        "dur": 12
       },
       "pasos": [
         "Liga corta sobre las rodillas (o sobre los tobillos para más dificultad). Rodillas flexionadas, cadera atrás.",
@@ -460,7 +470,8 @@
       "ligaTipo": "corta",
       "video": {
         "id": "u2p6nH7WEhE",
-        "canal": "Proet Ejercicio Terapéutico"
+        "canal": "Proet Ejercicio Terapéutico",
+        "dur": 15
       },
       "pasos": [
         "Acostado de lado, rodillas dobladas a 45°, liga corta sobre las rodillas, pies juntos.",
@@ -510,7 +521,8 @@
             "id": "Mdx2uAK9-SU",
             "canal": "The Fisio Program"
           }
-        ]
+        ],
+        "dur": 63
       },
       "pasos": [
         "Descalza, pie plano en el suelo, sentada primero.",
@@ -574,7 +586,8 @@
             "id": "TlGJSFRmvOg",
             "canal": "FisioDual. Fisioterapia y Osteopatía"
           }
-        ]
+        ],
+        "dur": 875
       },
       "pasos": [
         "Sentada, separa los dedos del pie abriéndolos como abanico, 5 segundos.",
@@ -609,7 +622,8 @@
       "ligaTipo": null,
       "video": {
         "id": "-Uz7pNoTTGI",
-        "canal": "Centro Clínico del Pie Biomecánica"
+        "canal": "Centro Clínico del Pie Biomecánica",
+        "dur": 298
       },
       "pasos": [
         "Descalza, sentada o de pie, sigue la secuencia del video para activar los músculos del arco.",
@@ -643,7 +657,8 @@
       "ligaTipo": null,
       "video": {
         "id": "0guUs90hUiY",
-        "canal": "Proet Ejercicio Terapéutico"
+        "canal": "Proet Ejercicio Terapéutico",
+        "dur": 16
       },
       "pasos": [
         "De pie sobre un escalón o el borde de un libro grueso, con los talones fuera del borde y apoyándote en la pared.",
@@ -684,7 +699,8 @@
             "id": "LwJM59_HG3I",
             "canal": "Marcos Sacristán | Fisioterapia"
           }
-        ]
+        ],
+        "dur": 183
       },
       "pasos": [
         "De pie descalza, junto a una pared por seguridad.",
@@ -720,7 +736,8 @@
       "ligaTipo": null,
       "video": {
         "id": "QjN9gIpaOAQ",
-        "canal": "Vitar Club"
+        "canal": "Vitar Club",
+        "dur": 64
       },
       "pasos": [
         "Manos algo más anchas que los hombros, rodillas en el mat, cuerpo en línea de rodillas a cabeza.",
@@ -755,7 +772,8 @@
       "ligaTipo": null,
       "video": {
         "id": "kPs3B6BIsnQ",
-        "canal": "Carlos Rossi"
+        "canal": "Carlos Rossi",
+        "dur": 72
       },
       "pasos": [
         "Manos en una superficie estable (mesa, sofá), cuerpo en línea recta.",
@@ -788,7 +806,8 @@
       "ligaTipo": "larga",
       "video": {
         "id": "YVmEWu_Vl8c",
-        "canal": "Adrian Estrada"
+        "canal": "Adrian Estrada",
+        "dur": 27
       },
       "pasos": [
         "Pasa la liga larga por la espalda a la altura de los omóplatos y sujeta cada extremo.",
@@ -829,7 +848,8 @@
             "id": "I0bj7b1niNs",
             "canal": "ReevolveFit"
           }
-        ]
+        ],
+        "dur": 186
       },
       "pasos": [
         "Pisa la liga con ambos pies y sujeta los extremos a la altura de los hombros.",
@@ -863,7 +883,8 @@
       "ligaTipo": "larga",
       "video": {
         "id": "KmpDowjBY2A",
-        "canal": "Proet Ejercicio Terapéutico"
+        "canal": "Proet Ejercicio Terapéutico",
+        "dur": 16
       },
       "pasos": [
         "Sentado en el suelo con las piernas estiradas y la liga rodeando los pies.",
@@ -898,7 +919,8 @@
       "ligaTipo": "larga",
       "video": {
         "id": "6KvMoO5Smj0",
-        "canal": "Vitar Club"
+        "canal": "Vitar Club",
+        "dur": 65
       },
       "pasos": [
         "Ancla la liga a la altura de la cara (puerta cerrada o poste).",
@@ -932,7 +954,8 @@
       "ligaTipo": "larga",
       "video": {
         "id": "zw2M5Pn1lro",
-        "canal": "Coach Juanky"
+        "canal": "Coach Juanky",
+        "dur": 126
       },
       "pasos": [
         "Pisa la liga con un pie adelantado.",
@@ -973,7 +996,8 @@
             "id": "rlEWY2lRCTU",
             "canal": "Therapeutic International"
           }
-        ]
+        ],
+        "dur": 41
       },
       "pasos": [
         "Apoya antebrazos (codos bajo los hombros) y rodillas o puntas de los pies.",
@@ -1021,7 +1045,8 @@
             "id": "hUIrLbMnglY",
             "canal": "FisioVanguardia"
           }
-        ]
+        ],
+        "dur": 84
       },
       "pasos": [
         "En cuatro apoyos, espalda neutra.",
@@ -1064,7 +1089,8 @@
       "ligaTipo": null,
       "video": {
         "id": "HC0_4VYEKYs",
-        "canal": "ICONICA Servicios Médicos"
+        "canal": "ICONICA Servicios Médicos",
+        "dur": 34
       },
       "pasos": [
         "Boca arriba, brazos al techo, rodillas dobladas a 90° sobre la cadera.",
@@ -1107,7 +1133,8 @@
       "ligaTipo": null,
       "video": {
         "id": "5Mlhzqy8nLU",
-        "canal": "Escuela de Pacientes"
+        "canal": "Escuela de Pacientes",
+        "dur": 27
       },
       "pasos": [
         "De lado, codo bajo el hombro y rodillas dobladas apoyadas.",
@@ -1149,7 +1176,8 @@
       "ligaTipo": null,
       "video": {
         "id": "pF46ZFaR7Ag",
-        "canal": "gymvirtual"
+        "canal": "gymvirtual",
+        "dur": 182
       },
       "pasos": [
         "Sigue la secuencia del video estirando piernas, glúteos y espalda.",
@@ -1188,7 +1216,8 @@
       "ligaTipo": null,
       "video": {
         "id": "zaUWNvgelAU",
-        "canal": "SportCity México"
+        "canal": "SportCity México",
+        "dur": 181
       },
       "pasos": [
         "Ajusta el sillín a la altura de la cadera y el manubrio a una posición cómoda; cambia el ajuste cada vez que cambie la persona.",
