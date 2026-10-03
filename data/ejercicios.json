@@ -562,6 +562,11 @@
             "desde": "10:33",
             "hasta": "12:17",
             "texto": "Ejercicio para el arco anterior del pie"
+          },
+          {
+            "desde": "12:18",
+            "hasta": "13:23",
+            "texto": "Ejercicio de tensión para los gemelos"
           }
         ],
         "alt": [
@@ -632,7 +637,7 @@
     },
     {
       "id": "bn-talones",
-      "nombre": "Elevación de talones controlada",
+      "nombre": "Elevación de talones (gemelos)",
       "bloque": "bn",
       "tipo": "fuerza",
       "ligaTipo": null,
@@ -641,9 +646,10 @@
         "canal": "Proet Ejercicio Terapéutico"
       },
       "pasos": [
-        "De pie sobre un escalón o el borde de un libro grueso, apoyándote en la pared.",
+        "De pie sobre un escalón o el borde de un libro grueso, con los talones fuera del borde y apoyándote en la pared.",
         "Sube los talones en 2 segundos empujando sobre el dedo gordo.",
-        "Baja en 3 segundos hasta que el talón quede un poco bajo el nivel de la punta."
+        "Baja en 3 segundos hasta que el talón quede un poco por debajo del nivel de la punta.",
+        "Progresión: hazlo con una sola pierna."
       ],
       "errores": [
         "Dejar que el tobillo ruede hacia afuera.",
@@ -660,7 +666,7 @@
         }
       },
       "notas": {
-        "natalia": "Empezar sin bajar del nivel del suelo.",
+        "natalia": "Fortalece tobillo y rodilla. Control, no velocidad. Al llegar a 3 × 15 con buena técnica, pasa a hacerlo a una pierna.",
         "adrian": ""
       }
     },
