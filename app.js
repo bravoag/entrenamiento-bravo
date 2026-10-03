@@ -18,7 +18,8 @@ const semanaISO = s => {
 };
 const fechaLarga = s => aFecha(s).toLocaleDateString('es', { weekday: 'long', day: 'numeric', month: 'long' });
 const fechaCorta = s => aFecha(s).toLocaleDateString('es', { weekday: 'short', day: 'numeric', month: 'short' });
-const ytUrl = id => `https://www.youtube.com/watch?v=${id}`;
+const ytUrl = (id, seg) => `https://www.youtube.com/watch?v=${id}${seg ? '&t=' + seg + 's' : ''}`;
+const aSeg = t => t.split(':').reduce((a, x) => a * 60 + (+x || 0), 0);
 const ytMini = id => `https://img.youtube.com/vi/${id}/mqdefault.jpg`;
 
 const PERSONAS = {
@@ -346,6 +347,7 @@ function vistaFicha(id) {
   const base = prev || ult;
   const capLiga = enAdaptacion(semana) ? D.plan.adaptacion.ligaMax : 3;
   const notaPers = ej.notas[E.persona];
+  const mom = ej.video.momentos || [];
   const alt = (ej.video.alt || []).map(a => `<a href="${ytUrl(a.id)}" target="_blank" rel="noopener">${esc(a.canal)}</a>`).join(' · ');
 
   let registro;
@@ -378,7 +380,8 @@ function vistaFicha(id) {
   return `${volver('#/hoy', 'Hoy')}
     <h1 style="margin:6px 0 4px">${esc(ej.nombre)}</h1>
     <p class="tenue" style="margin:0 0 6px">${esc(textoPresc(p, ej))}</p>
-    <a class="video" href="${ytUrl(ej.video.id)}" target="_blank" rel="noopener" style="background-image:url('${ytMini(ej.video.id)}')" aria-label="Ver video en YouTube"><span class="play"></span><span class="canal">${esc(ej.video.canal)} · YouTube</span></a>
+    <a class="video" href="${ytUrl(ej.video.id, mom[0] && aSeg(mom[0].desde))}" target="_blank" rel="noopener" style="background-image:url('${ytMini(ej.video.id)}')" aria-label="Ver video en YouTube"><span class="play"></span><span class="canal">${esc(ej.video.canal)} · YouTube${mom[0] ? ' · desde ' + esc(mom[0].desde) : ''}</span></a>
+    ${mom.length ? `<div class="tarjeta momentos"><h3>Ve directo a</h3>${mom.map(m => `<a class="momento" href="${ytUrl(ej.video.id, aSeg(m.desde))}" target="_blank" rel="noopener"><b>${esc(m.desde)}${m.hasta ? ' – ' + esc(m.hasta) : ''}</b><span>${esc(m.texto)}</span></a>`).join('')}</div>` : ''}
     ${alt ? `<p class="alt-video">Otras opciones: ${alt}</p>` : ''}
     ${sugerencia}
     ${notaPers ? `<div class="tarjeta aviso"><h3>Para ti</h3><p style="margin:0">${esc(notaPers)}</p></div>` : ''}

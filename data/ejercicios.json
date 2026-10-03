@@ -131,7 +131,14 @@
       "bloque": "a",
       "tipo": "fuerza",
       "ligaTipo": null,
-      "video": { "id": "6d6HlPWgAUs", "canal": "Fit Generation" },
+      "video": {
+        "id": "6d6HlPWgAUs",
+        "canal": "Fit Generation",
+        "momentos": [
+          { "desde": "3:40", "hasta": "9:50", "texto": "Técnica con enfoque en cuádriceps (empieza aquí)" },
+          { "desde": "9:51", "hasta": "13:42", "texto": "Variante con enfoque en glúteo" }
+        ]
+      },
       "pasos": [
         "De espaldas a una silla o sofá firme, apoya el empeine de un pie atrás.",
         "Da un paso largo hacia adelante con la otra pierna; el pie de apoyo queda plano.",
@@ -315,6 +322,11 @@
       "video": {
         "id": "cVsTXM6OVoY",
         "canal": "FisioOnline",
+        "momentos": [
+          { "desde": "5:48", "hasta": "9:25", "texto": "Automasaje y movilización (empieza aquí; salta la explicación inicial)" },
+          { "desde": "9:26", "hasta": "10:32", "texto": "Tracciones del primer dedo" },
+          { "desde": "10:33", "hasta": "12:17", "texto": "Ejercicio para el arco anterior del pie" }
+        ],
         "alt": [{ "id": "TlGJSFRmvOg", "canal": "FisioDual. Fisioterapia y Osteopatía" }]
       },
       "pasos": [
